@@ -191,22 +191,3 @@ Detecting-Pneumonia/
 ├── README.md
 └── chest_xray/
 ```
-
----
-
-## 🎯 Future Enhancements
-
-- Fine-tune pretrained ResNet layers
-- Experiment with EfficientNet architectures
-- Add Grad-CAM visualizations for explainability
-- Hyperparameter optimization
-- Deploy as a web application
-
----
-
-## 📚 References
-
-- TensorFlow Documentation
-- Keras Transfer Learning Guide
-- Chest X-Ray Pneumonia Dataset
-- ResNet: Deep Residual Learning for Image Recognition
