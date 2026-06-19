@@ -1,6 +1,6 @@
 # 🩺 Detecting Pneumonia from Chest X-Ray Images Using Deep Learning
 
-This project leverages Deep Learning and Transfer Learning techniques to automatically detect pneumonia from chest X-ray images. Multiple neural network architectures, including a custom CNN, ResNet50V2, and ResNet101V2, are trained and evaluated to compare their effectiveness in binary image classification.
+This project leverages Deep Learning and Transfer Learning techniques to automatically detect pneumonia from chest X-ray images. A custom CNN, ResNet50V2, and ResNet101V2, are trained and evaluated to compare their effectiveness in binary image classification.
 
 ---
 
