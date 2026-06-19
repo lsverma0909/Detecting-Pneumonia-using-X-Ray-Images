@@ -89,7 +89,7 @@ Features:
 
 ### 2. ResNet50V2
 
-Transfer learning model using ImageNet pretrained weights.
+Transfer learning model using ImageNet pretrained weights
 
 Features:
 
